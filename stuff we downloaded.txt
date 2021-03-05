@@ -1,0 +1,4 @@
+multer to upload images
+express as frame work for node 
+
+npm i express mongoose cors multer multer-gridfs-storage gridfs-stream body-parser path pusher
